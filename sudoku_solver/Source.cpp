@@ -22,6 +22,7 @@ int main()
 		cout << "sudoku can't solved";
 	return 0;
 }/*
+sample input:-
 530070000
 600195000
 098000060
